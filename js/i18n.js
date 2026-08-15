@@ -147,7 +147,7 @@ const I18N = {
     'contact.location': 'Rabat, Maroc',
     'contact.socialLabel': 'Réseaux',
     'contact.rights': 'Tous droits réservés.',
-    'contact.credit': 'Site conçu et développé par Khalil Bouhmouch.'
+    'contact.credit': 'Site conçu et développé par Ahmad Bouhmouch.'
   },
 
   en: {
@@ -289,7 +289,7 @@ const I18N = {
     'contact.location': 'Rabat, Morocco',
     'contact.socialLabel': 'Social',
     'contact.rights': 'All rights reserved.',
-    'contact.credit': 'Site designed and developed by Khalil Bouhmouch.'
+    'contact.credit': 'Site designed and developed by Ahmad Bouhmouch.'
   }
 };
 
